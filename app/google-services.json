@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617082535715",
+    "project_id": "image-uplouder-f20d6",
+    "storage_bucket": "image-uplouder-f20d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617082535715:android:1ee975eb8e558e8481d696",
+        "android_client_info": {
+          "package_name": "com.example.imageuplouder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617082535715-kija6svu1ui4shv8a9gri1rno15rqbq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5jPmClfgHxJ-e4IL2gMULdOlE9eOxrOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617082535715-kija6svu1ui4shv8a9gri1rno15rqbq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
